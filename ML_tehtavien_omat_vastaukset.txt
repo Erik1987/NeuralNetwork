@@ -1,0 +1,9 @@
+1. neuroverkkoa
+2. Pandas
+3. Vahvistusoppimisella
+4. Datan esikäsittely, Datan kerääminen, Datasetin jakaminen koulutus ja testausdataan
+5. Mallin tuottaman virheen tulostaminen tai visualisoiminen
+    Hyperparametrien säätäminen
+6. A
+7. (2 vastasin), se on ehkä nolla.
+
